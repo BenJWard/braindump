@@ -1,0 +1,4 @@
+#+TITLE: Index
+
+[[file:projects.org][Projects]]
+[[file:bioinformatics.org][Bioinformatics]]
